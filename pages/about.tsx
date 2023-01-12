@@ -50,6 +50,22 @@ export default function About() {
                         to contact us. We look forward to hearing from you and
                         helping you with your online needs. Thank you for
                         visiting our website!
+                        <br />
+                        <br />
+                        My name is Rohil Pawar and I am a 16 year old high school 
+                        student, and passionate about learning and exploring new 
+                        new things. I am also very passionate about music. I have 
+                        been playing the piano since I was 8 years old, and I have 
+                        been playing the cello since I was 12.  I have even 
+                        performed at a few local venues. I am also very active in 
+                        my school’s extracurricular activities. I am a member of 
+                        DECA, TSA, FBLA, and Data Science and I have won several 
+                        awards for each of these clubs. I am also a prior member 
+                        of a robotics team, and I have been a part of several 
+                        successful projects. I am also very involved in my community. 
+                        I volunteer at a local shelter, and at the First Tee of Greater 
+                        Charlotte. I am passionate about making a difference in my 
+                        community, and I am always looking for ways to help out.
                     </p>
                 </div>
             </main>
